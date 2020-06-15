@@ -1,7 +1,7 @@
 {
     "batchSize": 128,
     "number_of_epochs": 1000,
-    "last_executing_epoch_index": 917,
+    "last_executing_epoch_index": 0,
     "last_executed_batch_index": -1,
     "last_completed": true,
     "randomIndexList": [
